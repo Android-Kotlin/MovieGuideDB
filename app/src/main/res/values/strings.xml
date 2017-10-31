@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">电影指南</string>
+    <string name="title_item_detail">影片详情</string>
+    <string name="title_movie_detail">影片详情</string>
+</resources>
